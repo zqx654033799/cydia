@@ -1,0 +1,8 @@
+Origin: iPaperman Cydia 软件源
+Label: iPaperman
+Suite: stable
+Version: ©2019
+Codename: iOS
+Architectures: iphoneos-arm
+Components: main
+Description: iPaperman Cydia 软件源
